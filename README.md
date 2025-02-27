@@ -32,5 +32,8 @@
 - 🚴 Cycling & exploring new places in my free time.
 - 🍕 Pizza is my go-to coding fuel.
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KshitijChaudhary&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KshitijChaudhary&theme=radical)
+
 ---
 🚀 **"Code is like humor. When you have to explain it, it’s bad."** 😄
