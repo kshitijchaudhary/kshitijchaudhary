@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=KshitijChaudhary&show_icons=true&theme=radical" height="165"](https://www.istockphoto.com/photo/businessman-works-on-laptop-showing-business-analytics-dashboard-with-charts-metrics-gm1488294044-513513679?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=srp_topbanner_media&utm_term=statistics)>
+  <img src="https://github-readme-stats.vercel.app/api?username=KshitijChaudhary&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijChaudhary&layout=compact&theme=radical" height="165">
 </div>
 
