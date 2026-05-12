@@ -73,7 +73,7 @@ I focus on building practical full-stack systems such as:
 
 - LinkedIn: https://linkedin.com/in/kshitijchaudhary
 - Portfolio: https://chaudharykshitij.com.np
-- Email: chaudharykshitij49@gmail.com
+- Email: hello@chaudharykshitij.com.np
 
 ---
 
