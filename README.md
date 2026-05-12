@@ -77,8 +77,9 @@ I focus on building practical full-stack systems such as:
 
 ---
 
-## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitijchaudhary&show_icons=true&theme=default)
+## Current Work
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijchaudhary&layout=compact&theme=default)
+- Building and improving Munmai as a production-level financial workflow product.
+- Strengthening backend architecture, API design, and system design fundamentals.
+- Preparing for Junior Software Developer / Full Stack Developer roles in Canada.
