@@ -71,7 +71,7 @@ I focus on building practical full-stack systems such as:
 
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/kshitijchaudhary
+- LinkedIn: https://linkedin.com/in/kshitijchaudhary0
 - Portfolio: https://chaudharykshitij.com.np
 - Email: connect@chaudharykshitij.com.np
 
