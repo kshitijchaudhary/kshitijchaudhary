@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="hero-title hero-description">
+  <title id="hero-title">Kshitij Chaudhary — Full Stack Developer</title>
+  <desc id="hero-description">Portfolio header for Kshitij Chaudhary, a full stack developer in Ontario, Canada, building production software across Munmai, NepStack, and applied AI.</desc>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" class="grid-line" fill="none"/>
+    </pattern>
+    <radialGradient id="ambient-light" cx="84%" cy="22%" r="58%">
+      <stop offset="0" class="glow-start"/>
+      <stop offset="1" class="glow-end"/>
+    </radialGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="500" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    :root { color-scheme: light dark; }
+    .background { fill: #111820; }
+    .grid-line { stroke: #d8e5ef; stroke-width: 1; opacity: 0.055; }
+    .glow-start { stop-color: #2dd4bf; stop-opacity: 0.13; }
+    .glow-end { stop-color: #2dd4bf; stop-opacity: 0; }
+    .frame-line { fill: none; stroke: #d8e5ef; stroke-width: 1; opacity: 0.13; }
+    .geometry-line { fill: none; stroke: #2dd4bf; stroke-width: 1.5; opacity: 0.34; }
+    .geometry-fill { fill: #2dd4bf; opacity: 0.06; }
+    .geometry-node { fill: #2dd4bf; }
+    .eyebrow { fill: #2dd4bf; font: 700 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 2.4px; }
+    .name { fill: #f3f7fb; font: 750 58px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: -1.8px; }
+    .role { fill: #a9b7c6; font: 500 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 0.4px; }
+    .location { fill: #a9b7c6; font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 0.5px; }
+    .statement { fill: #f3f7fb; font: 620 30px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: -0.35px; }
+    .label { fill: #7f91a3; font: 700 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 1.8px; }
+    .detail { fill: #d5dee7; font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+    .divider { stroke: #d8e5ef; stroke-width: 1; opacity: 0.14; }
+    .signal { transform-box: fill-box; transform-origin: center; animation: signal 3.2s ease-in-out infinite; }
+    @keyframes signal {
+      0%, 100% { opacity: 0.42; transform: scale(0.78); }
+      50% { opacity: 1; transform: scale(1); }
+    }
+
+    @media (prefers-color-scheme: light) {
+      .background { fill: #f6f8fa; }
+      .grid-line { stroke: #1f3345; opacity: 0.07; }
+      .glow-start { stop-color: #0f8f83; stop-opacity: 0.1; }
+      .glow-end { stop-color: #0f8f83; stop-opacity: 0; }
+      .frame-line, .divider { stroke: #1f3345; }
+      .geometry-line { stroke: #0f8f83; opacity: 0.32; }
+      .geometry-fill, .geometry-node { fill: #0f8f83; }
+      .eyebrow { fill: #087f74; }
+      .name, .statement { fill: #17212b; }
+      .role, .location { fill: #506174; }
+      .label { fill: #66788a; }
+      .detail { fill: #2d3d4d; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .signal { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect class="background" width="1200" height="500"/>
+    <rect width="1200" height="500" fill="url(#grid)"/>
+    <rect width="1200" height="500" fill="url(#ambient-light)"/>
+
+    <g aria-hidden="true">
+      <path class="geometry-fill" d="M995 51l145 84-53 198-181 45-103-135 48-144z"/>
+      <path class="geometry-line" d="M995 51l145 84-53 198-181 45-103-135 48-144z"/>
+      <path class="geometry-line" d="M945 107l120 40 22 112-91 73-107-46-8-116z"/>
+      <path class="geometry-line" d="M851 99l130 103 159-67M803 243l178-41 106 131M906 378l75-176"/>
+      <circle class="geometry-node" cx="851" cy="99" r="4"/>
+      <circle class="geometry-node" cx="1140" cy="135" r="4"/>
+      <circle class="geometry-node" cx="1087" cy="333" r="4"/>
+      <circle class="geometry-node" cx="906" cy="378" r="4"/>
+      <circle class="geometry-node" cx="981" cy="202" r="6"/>
+    </g>
+
+    <circle class="geometry-node signal" cx="78" cy="68" r="5"/>
+    <text class="eyebrow" x="96" y="74">BUILDING IN PUBLIC</text>
+    <text class="location" x="1128" y="74" text-anchor="end">Ontario, Canada</text>
+
+    <text class="name" x="72" y="155">Kshitij Chaudhary</text>
+    <text class="role" x="74" y="190">Full Stack Developer</text>
+
+    <text class="statement" x="72" y="266">
+      <tspan x="72" dy="0">I build production software that turns complicated</tspan>
+      <tspan x="72" dy="42">workflows into clear, reliable products.</tspan>
+    </text>
+
+    <line class="divider" x1="72" y1="350" x2="1128" y2="350"/>
+
+    <text class="label" x="72" y="387">CURRENT WORK</text>
+    <text class="detail" x="72" y="417">Munmai · NepStack · Applied AI</text>
+
+    <text class="label" x="440" y="387">TECHNOLOGY</text>
+    <text class="detail" x="440" y="417">TypeScript · React · Node.js · .NET · MongoDB · PostgreSQL</text>
+  </g>
+
+  <rect class="frame-line" x="0.5" y="0.5" width="1199" height="499" rx="23.5"/>
+</svg>
