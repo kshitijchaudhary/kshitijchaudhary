@@ -43,7 +43,7 @@ jobs:
           PROFILE_MISSION: "Building production-level software products"
           PROFILE_CURRENT: "NepStack • Munmai • Applied AI"
           PROFILE_STACK: ".NET • Angular • TypeScript • Python"
-          PROFILE_STATUS: "Building systems, products, and engineering discipline"
+          PROFILE_STATUS: "Shipping production software"
         run: python scripts/generate_profile.py
 
       - name: Commit generated SVG
