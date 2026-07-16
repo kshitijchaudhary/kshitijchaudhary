@@ -1,42 +1,35 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile.svg">
-  <img alt="Kshitij Mitra terminal-style GitHub profile" src="./assets/profile.svg">
-</picture>
+<img src="./assets/hero.svg" alt="Xitol Mitra — Full Stack Developer in Ontario, Canada" width="100%">
 
-## Featured Projects
+## Featured Work
 
-### [Munmai](https://munmai.com)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://munmai.com">Munmai</a></h3>
+      <p>A production-deployed financial clarity platform for transactions, receipts, statement imports, shared expenses, and monthly insights.</p>
+      <p><strong>Status:</strong> Live product</p>
+      <p><strong>Stack:</strong> React, TypeScript, Node.js, Express, MongoDB</p>
+      <p><a href="https://munmai.com">Live</a> · <a href="https://github.com/kshitijchaudhary/munmai">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NepStack</h3>
+      <p>A collaborative engineering initiative focused on production-grade delivery, reusable engineering practices, and human-AI software workflows.</p>
+      <p><strong>Status:</strong> Active development</p>
+      <p><strong>Focus:</strong> Architecture, testing, documentation, CI/CD, and AI-assisted engineering</p>
+    </td>
+  </tr>
+</table>
 
-A production-deployed financial clarity platform for tracking income, expenses, receipts, statement imports, shared expenses, and monthly insights.
+## Engineering Focus
 
-**Highlights**
+- Production full-stack applications
+- Backend architecture and API design
+- CI/CD and cloud deployment
+- Applied AI, RAG, and agent workflows
 
-- Receipt and PDF statement imports
-- Duplicate-import protection
-- Shared expenses and group workflows
-- Monthly financial summaries
-- Authentication and protected user data
-- Production deployment and CI/CD
+## Technology
 
-**Stack:** React, TypeScript, Node.js, Express, MongoDB
-
----
-
-### NepStack
-
-A collaborative engineering initiative focused on production-grade software delivery, reusable engineering practices, and human-AI development workflows.
-
-**Current work:** Architecture, team workflows, pull-request discipline, testing, and engineering documentation.
-
----
-
-## Current Focus
-
-- Shipping and polishing Munmai
-- Strengthening backend architecture and API design
-- Building practical AI and LLM engineering skills
-- Improving production deployment and CI/CD practices
+TypeScript, JavaScript, React, Angular, Node.js, Express, .NET, Python, MongoDB, PostgreSQL, Docker, GitHub Actions
 
 ## Connect
 
