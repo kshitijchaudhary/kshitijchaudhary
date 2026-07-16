@@ -8,7 +8,7 @@
       <h3><a href="https://munmai.com">Munmai</a></h3>
       <p>A production-deployed financial clarity platform for transactions, receipts, statement imports, shared expenses, and monthly insights.</p>
       <p><strong>Status:</strong> Live product</p>
-      <p><strong>Stack:</strong> React, TypeScript, Node.js, Express, MongoDB</p>
+      <p><strong>Stack:</strong> TypeScript · React · Angular · Node.js · Express · .NET · Python · MongoDB · PostgreSQL · Docker · GitHub Actions</p>
       <p><a href="https://munmai.com">Live</a> · <a href="https://github.com/kshitijchaudhary/munmai">Repository</a></p>
     </td>
     <td width="50%" valign="top">

@@ -94,7 +94,7 @@
     <text class="detail" x="72" y="417">Munmai · NepStack · Applied AI</text>
 
     <text class="label" x="440" y="387">TECHNOLOGY</text>
-    <text class="detail" x="440" y="417">TypeScript · React · Node.js · .NET · MongoDB · PostgreSQL</text>
+    <text class="detail" x="440" y="417">TypeScript · React · Angular · Node.js · Express · .NET · Python · MongoDB · PostgreSQL · Docker · GitHub Actions</text>
   </g>
 
   <rect class="frame-line" x="0.5" y="0.5" width="1199" height="499" rx="23.5"/>
